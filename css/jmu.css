@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo:regular,italic,700,700italic);
+
+:root {
+  --jmu-dark-purple: #450084;
+  --jmu-purple: #b599ce;
+  --jmu-light-purple: #dacce6;
+
+  --jmu-dark-gold: #ad9c65;
+  --jmu-gold: #cbb677;
+  --jmu-light-gold: #f4efe1;
+
+  --jmu-slate: #333333;
+  --jmu-dark-gray: #595959;
+  --jmu-gray: #b2b2b2;
+  --jmu-light: #d6d6d6;
+
+  --jmu-green: #5f791c;
+  --jmu-light-green: #adcc23;
+  --jmu-lemon: #deeba7;
+
+  --jmu-blue-green: #3c738b;
+  --jmu-light-blue-green: #5498b6;
+  --jmu-baby-blue: #d2ebf5;
+
+  --jmu-dark-red: #a4232b;
+  --jmu-orange: #ffbd00;
+
+  --sans: Arial, Helvetica, sans-serif;
+  --serif: Arvo, Georgia, serif;
+}
+
+p {
+  font-family: var(--sans);
+  font-size: 24px;
+  /*line-height: 16px;*/
+}
+
+h1 {
+  font-family: var(--serif);
+  font-size: 28px;
+}
+
+h2 {
+  font-family: var(--serif);
+  font-size: 34px;
+}
+
+h3 {
+  font-family: var(--sans);
+  font-size: 28px;
+}
+
+h4 {
+  font-family: var(--sans);
+  font-size: 22px;
+}
+
+h5 {
+  font-family: var(--serif);
+  font-size: 18px;
+}
+
+h6 {
+  font-family: var(--sans);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.75px;
+}
+

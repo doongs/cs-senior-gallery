@@ -1,0 +1,55 @@
+.bg-dark {
+  background-color: var(--jmu-dark-purple) !important;
+}
+
+.bg-light {
+  background-color: white !important;
+}
+
+.jumbotron {
+  background-color: var(--jmu-light-gold) !important;
+}
+
+#header-cs {
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+a:active {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+footer > * {
+    background-color: var(--jmu-light-gold) !important;
+    padding: 0px !important;
+}
+
+#footer-cs {
+    max-width: 300px;
+    min-width: 300px;
+}
+
+

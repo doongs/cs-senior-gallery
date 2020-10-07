@@ -10,13 +10,20 @@
   background-color: var(--jmu-light-gold) !important;
 }
 
-#header-cs {
+#header-cs > * {
   color: white;
+  display: inline-block;
+  text-align: center;
   margin: 0;
   padding: 0;
   text-decoration: none;
 }
 
+#wordmark {
+  min-width: fit-content;
+  display: inline-block;
+  text-align: center;
+}
 a {
   color: inherit;
   text-decoration: inherit;
@@ -43,13 +50,17 @@ a:active {
 }
 
 footer > * {
-    background-color: var(--jmu-light-gold) !important;
-    padding: 0px !important;
+  background-color: var(--jmu-light-gold) !important;
+  padding: 0px !important;
 }
 
 #footer-cs {
-    max-width: 300px;
-    min-width: 300px;
+  max-width: 300px;
+  min-width: 300px;
 }
 
-
+@media only screen and (max-width: 768px) {
+  #wordmark {
+    display: none;
+  }
+}

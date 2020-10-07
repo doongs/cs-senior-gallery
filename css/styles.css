@@ -20,7 +20,6 @@
 }
 
 #wordmark {
-  min-width: fit-content;
   display: inline-block;
   text-align: center;
 }

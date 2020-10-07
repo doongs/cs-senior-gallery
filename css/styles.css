@@ -10,19 +10,22 @@
   background-color: var(--jmu-light-gold) !important;
 }
 
-#header-cs > * {
+#header-cs {
   color: white;
-  display: inline-block;
-  text-align: center;
   margin: 0;
   padding: 0;
+}
+
+#header-cs > a {
+  text-align: center;
+  display: inline-block;
   text-decoration: none;
 }
 
 #wordmark {
   display: inline-block;
-  text-align: center;
 }
+
 a {
   color: inherit;
   text-decoration: inherit;

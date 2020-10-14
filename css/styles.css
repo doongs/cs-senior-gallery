@@ -75,3 +75,17 @@ footer > * {
   background-color: var(--jmu-dark-purple) !important;
   color: white !important;
 }
+
+footer {
+ 
+}
+
+.album {
+  z-index: 2;
+}
+
+
+
+
+
+

@@ -66,3 +66,12 @@ footer > * {
     display: none;
   }
 }
+
+.student-text {
+  font-size: medium;
+}
+
+.btn-purple {
+  background-color: var(--jmu-dark-purple) !important;
+  color: white !important;
+}

@@ -74,6 +74,7 @@ footer > * {
 .btn-purple {
   background-color: var(--jmu-dark-purple) !important;
   color: white !important;
+  width: fit-content !important;
 }
 
 footer {

@@ -334,16 +334,14 @@ function setModalText(index) {
   $("#studentModal").modal("show");
 }
 
-function doesFileExist(urlToFile) {
-  var xhr = new XMLHttpRequest();
-  xhr.open("HEAD", urlToFile, false);
-  xhr.send();
-
-  if (xhr.status == "404") {
-    return false;
-  } else {
-    return true;
-  }
+function doesFileExist(variable) {
+  var image = new Image();
+    image.src = variable;
+    if (image.width == 0) {
+       return false;
+    } else {
+       return true;
+    }
 }
 
 (function () {

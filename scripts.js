@@ -373,5 +373,6 @@ function doesFileExist(variable) {
     }
     document.querySelector(`#row${counter}`).appendChild(createCard(i));
   }
+  $('.carousel').carousel();
   //location.reload();
 })();

@@ -373,5 +373,5 @@ function doesFileExist(variable) {
     }
     document.querySelector(`#row${counter}`).appendChild(createCard(i));
   }
-  location.reload();
+  //location.reload();
 })();

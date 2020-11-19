@@ -184,7 +184,7 @@ function createCard(index) {
   }
 
   let cardInner1 = `<div class="pb-4 h-100">
-  <div class="card h-100 mb-4 box-shadow" id="${eid}">
+  <div class="card h-100 mb-4 box-shadow unseen aos-init aos-animate" data-aos="zoom-in" id="${eid}">
     <!--Carousel Begin-->
     <div id="carousel-${eid}" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
       <ol class="carousel-indicators">
@@ -209,7 +209,7 @@ function createCard(index) {
 `;
 
   let cardInner2 = `<div class="pb-4 h-100">
-  <div class="card h-100 mb-4 box-shadow" id="${eid}">
+  <div class="card h-100 mb-4 box-shadow unseen aos-init aos-animate" data-aos="zoom-in" id="${eid}">
     <!--Carousel Begin-->
     <div id="carousel-${eid}" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
       <ol class="carousel-indicators">
@@ -247,7 +247,7 @@ function createCard(index) {
 `;
 
   let cardInner3 = `<div class="pb-4 h-100">
-    <div class="card h-100 mb-4 box-shadow" id="${eid}">
+    <div class="card h-100 mb-4 box-shadow unseen aos-init aos-animate" data-aos="zoom-in"  id="${eid}">
       <!--Carousel Begin-->
       <div id="carousel-${eid}" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
         <ol class="carousel-indicators">

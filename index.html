@@ -8,7 +8,6 @@
     />
     <meta name="description" content="JMU CS Class of 2021 Picture Gallery" />
     <meta name="author" content="Gabriel Doon" />
-    <meta name="author" content="Caitlyn Retaleato" />
 
     <title>CS Seniors</title>
     <link rel="icon" href="resources/logos/favicon.ico" type="image/x-icon" />
@@ -19,7 +18,7 @@
     />
     <link rel="stylesheet" href="jmu.css" />
     <link rel="stylesheet" href="styles.css" />
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
   </head>
 
   <body>
@@ -63,14 +62,17 @@
       </div>
     </main>
 
-
-
     <div class="modal w-100 fade" tabindex="-1" role="dialog" id="studentModal">
       <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="studentName">Brad Ridder</h5>
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
@@ -89,11 +91,15 @@
               What are your plans for after graduation?
             </h4>
             <p class="student-text" id="plans"></p>
-            <h4 class="student-header" id="extra-header">Anything else you'd like to share?</h4>
+            <h4 class="student-header" id="extra-header">
+              Anything else you'd like to share?
+            </h4>
             <p class="student-text" id="extra"></p>
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-purple" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-purple" data-dismiss="modal">
+              Close
+            </button>
           </div>
         </div>
       </div>
@@ -102,13 +108,18 @@
     <!-- Footer -->
     <footer class="page-footer font-small blue pt-4">
       <!-- Footer Links -->
-      <div class="d-flex justify-content-center container-fluid">
+      <div class="d-flex justify-content-center">
         <a
-          class="d-flex justify-content-center container"
+          class=""
           href="https://www.jmu.edu/cise/cs/"
           ><img id="footer-cs" src="resources/logos/jmucs_logo_horiz.png"
         /></a>
+        
       </div>
+      <div class="d-flex justify-content-center">
+        <p class="small">Design: <a class="doongs" href="https://doongs.github.io/" target="_blank">Gabriel Doon</a></p>
+      </div>
+      
     </footer>
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

@@ -77,10 +77,6 @@ footer > * {
   width: fit-content !important;
 }
 
-footer {
- 
-}
-
 .album {
   z-index: 2;
 }
@@ -88,7 +84,7 @@ footer {
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 1fr;
   column-gap: 10%;
   row-gap: 10%;
 }
@@ -97,7 +93,7 @@ footer {
   object-fit: contain;
 }
 
-
-
-
-
+a.doongs {
+  color: blue;
+  text-decoration: underline;
+}

@@ -26,7 +26,7 @@
       "timestamp": "10/21/2020 12:12:41",
       "name": "Tyler van Burk",
       "eid": "vanburtj",
-      "minors": "Philosophy",
+      "minors": "Philosophy (Double Major)",
       "roles": "ACM/Coders Anonymous, PlayMU",
       "advice": "Ask Questions, Go to Office Hours, but most of all be open to new experiences or opportunities and be curious. There's always so much going on and different ways to get involved, and a lot of amazing people to meet!",
       "memories": "I loved how welcoming the environment was my first year at JMU. College was a new and scary place, but joining Coders Anonymous was such an amazing decision I made, as well as getting involved with the intramural teams or clubs really helped me find my groove in the CS department.",
@@ -70,7 +70,7 @@
       "timestamp": "10/25/2020 18:11:21",
       "name": "Jedidiah Keplinger",
       "eid": "keplinjr",
-      "minors": "Mathematics, Cybersecurity Certificate",
+      "minors": "Mathematics, Cybersecurity (Certificate)",
       "roles": "Upsilon Pi Epsilon",
       "advice": "I think that being intentional about truly engaging with your coursework, peers, faculty members, and/or possibility helping on a research project will give you a tremendous learning experience. As a CS student you’ll be here to learn, and you’re not expected to immediately know everything. I think to get the most from this department, simply give it your best effort, be patient with yourself as you learn, and your efforts will be reciprocated.",
       "memories": "One of my favorite memories involves the CS student room in the department hall. Jokingly, this room was named: “Dr. Bower’s Auxiliary Office.” The nice thing about this room was getting to interact with other students, work on problems together, and occasionally talk with a faculty member that dropped by. However, one of my favorite memories was when myself and other students began making the room our own. We decided the florescent lighting was a bit draining, and so I offered to bring in a standing lamp from home. So, there I was. A junior CS major in early hours of a windy winter morning carrying a 5-ft tall lamp across the parking lot by Rose Library to the ISAT building. I can’t help but laugh at how comical the moment was. But the CS department really made me feel at home.",
@@ -141,6 +141,83 @@
       "advice": "Get close with your professors and always stay motivated to learn",
       "memories": "",
       "plans": "Working for Verizon as a Software Engineer",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/3/2021 0:35:11",
+      "name": "Kush Gupta",
+      "eid": "guptaks",
+      "minors": "",
+      "roles": "Minority Programmers Association",
+      "advice": "Check out the extracurricular clubs! It's a great way to meet new people in the department and neighboring fields.",
+      "memories": "Working in ISAT all day with my fellow students with the common goal of learning and improvement.",
+      "plans": "Working with a financial services holding company in New York City",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/5/2021 11:56:55",
+      "name": "Jason Vanlandingham",
+      "eid": "vanlanjr",
+      "minors": "Mathematics, Computer Information Systems",
+      "roles": "Upsilon Pi Epsilon",
+      "advice": "Make an effort to meet new people in your CS classes and join one of the clubs that interests you!",
+      "memories": "The CS UK Study Abroad trip during the summer of 2019.",
+      "plans": "Move to Arlington, VA to work full-time as a SWE for a mortgage loan company.",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/12/2021 13:54:13",
+      "name": "Joe McCuen",
+      "eid": "mccuenja",
+      "minors": "Philosophy (Double Major)",
+      "roles": "",
+      "advice": "Make sure to check out the career fair each year! It will make you more comfortable putting yourself out there professionally. ",
+      "memories": "",
+      "plans": "I have a job with Verizon after graduation.",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/12/2021 13:56:45",
+      "name": "Andy Malone",
+      "eid": "maloneam",
+      "minors": "Mathematics",
+      "roles": "Cyber Defense, Upsilon Pi Epsilon",
+      "advice": "Join Cyber Defense Club!",
+      "memories": "2020 MACCDC and making it to regionals",
+      "plans": "",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/13/2021 12:42:20",
+      "name": "Dylan Nguyen",
+      "eid": "nguye2dd",
+      "minors": "",
+      "roles": "ACM/ Coders Anonymous, Cyber Defense, Upsilon Pi Epsilon",
+      "advice": "Make friends with your peers, professors, and utilize CS resources (TA hours, research talks, research opportunities etc.). Everybody in the community wants to help each other be successful and there are so many ways to get involved and learn about different aspects of CS.",
+      "memories": "One of my favorite memories is being is the lab to do work and meeting new friends in the major, whether it was relating through struggling through projects or just making a new friend.",
+      "plans": "I will be moving to Denver, CO to work full-time as an Advisory Analyst for Deloitte. I also plan to continue snowboard instructing as a part-time job, the mountains out there will be great for that.",
+      "extra": "CS is definitely a challenging major and can be very discouraging at times, but the community is so great at helping others and providing resources to help students feel comfortable in the major and also prepare for the real world. Take advantage of it!"
+    },
+    {
+      "timestamp": "4/16/2021 13:17:06",
+      "name": "Alexander Marasco",
+      "eid": "marascax",
+      "minors": "Mathematics",
+      "roles": "Upsilon Pi Epsilon",
+      "advice": "Seek assistance when you need it. The faculty wants you to succeed and there will always be something there for you when you need it.",
+      "memories": "Dr. Bowers and his glorious beard teaching our class outside (Spring 2019) for one class in Discrete Structures.",
+      "plans": "Work and find a career path to go down.",
+      "extra": "Special shout out to Dr. Weikle and Dr. Bernstein. I would not be where I am today without them."
+    },
+    {
+      "timestamp": "4/18/2021 17:00:41",
+      "name": "Nicholas VanFossen",
+      "eid": "vanfosna",
+      "minors": "",
+      "roles": "",
+      "advice": "Computer Science is not an easy major. It may take some time for specifics to sink in. Take your time, and do not get discouraged.",
+      "memories": "",
+      "plans": "",
       "extra": ""
     }
   ]

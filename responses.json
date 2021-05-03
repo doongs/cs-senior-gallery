@@ -219,6 +219,94 @@
       "memories": "",
       "plans": "",
       "extra": ""
+    },
+    {
+      "timestamp": "4/21/2021 15:02:30",
+      "name": "Kevin Kordish",
+      "eid": "kordiskd",
+      "minors": "",
+      "roles": "",
+      "advice": "Go to Office Hours/Ask Questions but make an attempt before either ",
+      "memories": "",
+      "plans": "Work for a few years and eventually do JMU's graduate program",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/21/2021 16:50:14",
+      "name": "Christian Locke",
+      "eid": "lockecp",
+      "minors": "",
+      "roles": "Cyber Defense",
+      "advice": "Engage with your professors! They're incredible people",
+      "memories": "Bike riding up Reddish Knob with Dr. Bowers",
+      "plans": "Software Engineer for General Dynamics Mission Systems out of Pittsfield, MA",
+      "extra": "Go check out the various clubs that the CS department has to offer. I wish I had done more and gotten more involved with Cyber Defense Club"
+    },
+    {
+      "timestamp": "4/21/2021 18:40:52",
+      "name": "Hunter Cantrell",
+      "eid": "cantrehl",
+      "minors": "Mathematics",
+      "roles": "",
+      "advice": "Go to office hours and start everything early!",
+      "memories": "Sitting in a meeting room working on a project with some friends and whenever we ran into problems we'd take turns walking into office hours and report back to the group.",
+      "plans": "After graduation I will be commissioning into the United States Air Force as a 2nd Lieutenant and will begin training to become a Cyberspace Operations Officer.",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/23/2021 12:28:46",
+      "name": "Anthony Thellaeche",
+      "eid": "thellaax",
+      "minors": "Computer Information Systems",
+      "roles": "",
+      "advice": "Take electives that you think you'll like (you probably will).",
+      "memories": "",
+      "plans": "",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/25/2021 17:27:28",
+      "name": "Hunter Venable",
+      "eid": "venablhl",
+      "minors": "",
+      "roles": "Upsilon Pi Epsilon",
+      "advice": "Don't be afraid to speak up and ask questions! Everybody in the department is here to help you.",
+      "memories": "Working in groups for the final project in 345 and being able to create a real software product while working with others.",
+      "plans": "I will be working as a Software Engineer Associate with the company Epsilon.",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/26/2021 12:51:19",
+      "name": "Michael DeProspo",
+      "eid": "deprosme",
+      "minors": "Biology",
+      "roles": "",
+      "advice": "Join clubs/go to talks",
+      "memories": "470 with Dr. Lam",
+      "plans": "Work",
+      "extra": ""
+    },
+    {
+      "timestamp": "4/26/2021 12:54:47",
+      "name": "Spencer Maghrouri",
+      "eid": "maghrosb",
+      "minors": "",
+      "roles": "",
+      "advice": "Apply your skills outside of school, build something!",
+      "memories": "2am CS Lab nights",
+      "plans": "Spend a few weeks on the beach before working",
+      "extra": "Don't let anyone else tell you what you're meant for, if you like CS stick with it"
+    },
+    {
+      "timestamp": "5/1/2021 10:38:20",
+      "name": "Zeru Tadesse",
+      "eid": "tadesszx",
+      "minors": "",
+      "roles": "CS TA, ACM/ Coders Anonymous",
+      "advice": "CS240 will best prepare you for internships, but along with CS261 they are key classes to pay attention in to figure out what path in the major you prefer, algorithms or systems (maybe both). ",
+      "memories": "Finishing a PA late at night in the lab/lounge. No better feeling than seeing your work rewarded and being able to go home to a good night sleep. ",
+      "plans": "Going to work at Qualcomm in San Diego, very excited!",
+      "extra": ""
     }
   ]
 }
